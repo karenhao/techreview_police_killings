@@ -11,3 +11,6 @@ A database tracking police killings of black Americans that involved publicly-re
 * `Number of protests (BLM)`: The number of protests held in the name of the victim, pulled from <a href="https://elephrame.com/textbook/BLM/chart">Elephrame's Database of Black Lives Matter protests</a> on June 8, 2020. Numbers before 2013 are roughly estimated from media reports.
 * `Notable attempts at reform and/or justice`: Reforms, legislation, or other notable events sparked by the killing.
 * `Source`: Reference news articles
+
+## Visualization
+![alt text](https://github.com/karenhao/techreview_police_killings/blob/master/Police%20killings%20timeline%20vertical_EL.svg)
