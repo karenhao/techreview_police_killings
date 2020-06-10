@@ -12,3 +12,6 @@ The data behind the graphic in the story "<a href="https://www.technologyreview.
 
 ## Graphic
 ![](https://github.com/karenhao/techreview_police_killings/blob/master/Police%20killings%20timeline%20vertical_EL.svg)
+
+## Updates
+* June 10, 2020: Corrected Trayon Martin's description on the graphic. His shooter, George Zimmerman, was not a police officer but the neighborhood watch coordinator of his gated community. Nonetheless Martin's murder is important because it sparked the #BlackLivesMatter movement.
